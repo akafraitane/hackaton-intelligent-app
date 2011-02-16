@@ -9,6 +9,7 @@ from click import style
 from pathlib import Path
 from inspect import signature
 
+
 # Add these constants near the top
 TEMP_FILE = Path.home() / '.lab_setup_progress'
 
